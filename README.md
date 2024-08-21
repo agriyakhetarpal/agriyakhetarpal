@@ -2,7 +2,7 @@
 
 _Full-time Pythonista, part-time poet, and hopeful code poet_ 🐍
 
-Hi there! I am a recent graduate of the University of Delhi in New Delhi, India, where I majored in computer science and mathematics.
+Hi there! I am a recent graduate of the University of Delhi in New Delhi, India, where I majored in computer science and mathematics. I work at Quansight Labs as a software engineer, where my work comprises the packaging and distribution of open-source scientific software.
 
 I currently volunteer and help maintain the following projects – a list which is by no means exhaustive:
 - [Pyodide](https://pyodide.org/), a port of CPython for WebAssembly (WASM) that aims to bring the [Scientific Python stack](https://scientific-python.org/) to the browser and Node.js;

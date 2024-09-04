@@ -9,8 +9,10 @@ Hi there! I am a recent graduate of the University of Delhi in New Delhi, India,
 
 I currently volunteer and help maintain the following projects – a list which is by no means exhaustive:
 - [Pyodide](https://pyodide.org/), a port of CPython for WebAssembly (WASM) that aims to bring the [Scientific Python stack](https://scientific-python.org/) to the browser and Node.js;
-- [Autograd](https://github.com/HIPS/autograd), a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code; and
-- the [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.
+- [Autograd](https://github.com/HIPS/autograd/), a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code; and
+- the [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org/), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.
+
+Additionally, I occasionally help triage [PyWavelets](https://github.com/PyWavelets/pywt/), a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.
 
 Here is a list of what I am interested in and would continually like to learn more about – which is by no means exhaustive:
 

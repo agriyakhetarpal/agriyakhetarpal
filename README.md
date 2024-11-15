@@ -10,7 +10,7 @@ Hi there! I am a recent graduate of the University of Delhi in New Delhi, India,
 I currently volunteer and help maintain the following projects – a list which is by no means exhaustive:
 
 - [Pyodide](https://pyodide.org/), a port of CPython for WebAssembly (WASM) that aims to bring the [Scientific Python stack](https://scientific-python.org/) to the browser and Node.js;
-- [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/stable/), a Sphinx extension that brings the power of JupyterLite in Sphinx documentation;
+- [`jupyterlite-sphinx`](https://jupyterlite-sphinx.readthedocs.io/en/stable/), a [Sphinx](https://www.sphinx-doc.org/) extension that brings the power of [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/), a WASM-based JupyterLab distribution, in Sphinx-based documentation websites;
 - [Autograd](https://github.com/HIPS/autograd/), a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code; and
 - the [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org/), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.
 

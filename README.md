@@ -14,6 +14,7 @@ I currently volunteer and help maintain the following projects – a list which 
 - [jupyterlite-pyodide-kernel](https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/), a JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser;
 - [Autograd](https://github.com/HIPS/autograd/), a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code; and
 - the [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org/), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.
+- the [SymPy Live Shell](https://live.sympy.org/) project, a web-based interface for the [SymPy](https://www.sympy.org/) computer algebra system, which allows users to perform symbolic mathematics computations in the browser.
 
 Additionally, I occasionally help triage [PyWavelets](https://github.com/PyWavelets/pywt/), a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.
 

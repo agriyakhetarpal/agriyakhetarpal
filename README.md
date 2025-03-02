@@ -31,22 +31,7 @@ You can usually find me lurking around on myriads of repositories and discussion
 
 <hr>
 
-Please feel free to reach out to me on any of the following social media handles to say hello:
-
-| Social network | The URL to my profile                                |
-| -------------- | ---------------------------------------------------- |
-| Mastodon       | https://fosstodon.org/@agriyakhetarpal               |
-| Bluesky        | https://bsky.app/profile/agriyakhetarpal.bsky.social |
-| Twitter        | https://twitter.com/agriyakhetarpal                  |
-
-or use these fun badges:
-
-[![Mastodon](https://img.shields.io/mastodon/follow/112913687774849952?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@agriyakhetarpal)
-[![Bluesky](https://img.shields.io/badge/agriyakhetarpal.bsky.social-blue?style=flat&logo=bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fagriyakhetarpal.bsky.social)](https://bsky.app/profile/agriyakhetarpal.bsky.social)
-[![Twitter](https://img.shields.io/twitter/follow/agriyakhetarpal?style=social)](https://twitter.com/agriyakhetarpal)
-[![GitHub](https://img.shields.io/github/followers/agriyakhetarpal?label=Follow%20@agriyakhetarpal&style=social)](https://github.com/agriyakhetarpal)
-
-For any professional inquiries, please reach out to me at the following email address: ` agriyakhetarpal [at] outlook [dot] com `
+To say hello, please feel free to reach out to me on [Bluesky](https://bsky.app/profile/agriyakhetarpal.bsky.social) or [Mastodon](https://fosstodon.org/@agriyakhetarpal). For any professional inquiries, please use the following email address: ` agriyakhetarpal [at] outlook [dot] com `
 
 <hr>
 

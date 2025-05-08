@@ -2,7 +2,9 @@
 
 _Full-time Pythonista, part-time poet, and hopeful code poet_ 🐍
 
-Hi there! I am a recent graduate of the University of Delhi in New Delhi, India, where I majored in computer science and mathematics. I work at Quansight Labs as a software engineer, where my work comprises the packaging and distribution of open-source scientific software.
+Hi there! I work at Quansight, where my work comprises the packaging and distribution of open-source scientific software in the Scientific Python ecosystem.
+
+I graduated from the University of Delhi in New Delhi, India, where I majored in computer science and mathematics.
 
 ![](https://komarev.com/ghpvc/?username=agriyakhetarpal&color=5465F5&abbreviated=true)
 ![](https://hit.yhype.me/github/profile?user_id=74401230)

@@ -33,7 +33,7 @@ You can usually find me lurking around on myriads of repositories and discussion
 
 <hr>
 
-To say hello, please feel free to reach out to me on [Bluesky](https://bsky.app/profile/agriyakhetarpal.bsky.social) or [Mastodon](https://fosstodon.org/@agriyakhetarpal). For any professional inquiries, please use the following email address: ` agriyakhetarpal [at] outlook [dot] com `
+To say hello, please feel free to reach out to me on [Bluesky](https://bsky.app/profile/agriyakhetarp.al) or [Mastodon](https://fosstodon.org/@agriyakhetarpal). For any professional inquiries, please use the following email address: ` agriyakhetarpal [at] outlook [dot] com `
 
 <hr>
 

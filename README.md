@@ -11,7 +11,7 @@ I currently volunteer and help maintain the following projects – a list which 
 
 | Project | Description |
 | ------- | ----------- |
-| [Pyodide](https://pyodide.org/) | A port of CPython for WebAssembly (WASM) that aims to bring the [Scientific Python stack](https://scientific-python.org/) to the browser and Node.js. |
+| [Pyodide](https://pyodide.org/) | A port of CPython for WebAssembly (WASM) that aims to bring the [scientific Python stack](https://scientific-python.org/) to the browser and Node.js. |
 | [Scientific Python Hugo Theme](https://theme.scientific-python.org/) | A [Hugo](https://gohugo.io/) theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use. |
 | [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/stable/) | A [Sphinx](https://www.sphinx-doc.org/) [extension](https://www.sphinx-doc.org/en/master/usage/extensions/index.html) that brings the power of [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/), a WASM-based JupyterLab distribution, in Sphinx-based documentation websites. |
 | [jupyterlite-pyodide-kernel](https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/) | A JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser. |

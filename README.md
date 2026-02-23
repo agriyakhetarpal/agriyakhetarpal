@@ -1,8 +1,8 @@
 _Full-time Pythonista, part-time poet, and hopeful code poet_ 🐍
 
-Hi there! I am a software engineer and open source maintainer based in New Delhi, India, with interests in interactive computing, numerical methods, Python packaging, and accessibility.
+Hi there! I am a software programmer and open source software maintainer based in New Delhi, India, with interests in interactive computing, numerical methods, Python packaging, and accessibility.
 
-I currently work at [Quansight](https://labs.quansight.org), where I focus on the packaging and distribution of open source scientific software in the Scientific Python and PyData ecosystems.
+I currently work at [Quansight](https://labs.quansight.org), where I focus on the packaging and distribution of scientific open source software in the Scientific Python and PyData ecosystems.
 
 ![](https://komarev.com/ghpvc/?username=agriyakhetarpal&color=5465F5&abbreviated=true)
 ![](https://hit.yhype.me/github/profile?user_id=74401230)

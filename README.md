@@ -16,7 +16,7 @@
 		</tr>
 		<tr>
 			<td colspan="1">
-                <img src="images/agriya.webp" alt="Agriya Khetarpal" width="200">
+                <img src="images/agriya.webp" alt="Agriya Khetarpal" height="200">
 			<td colspan="4">
             hi there! I am a computer programmer based in India. I work at <a href="https://quansight.com/">Quansight</a> (previously, <a href="https://labs.quansight.org">Quansight Labs</a>), where I focus on advancing scientific open source software in the <a href="https://scientific-python.org/">Scientific Python</a>, <a href="https://pydata.org/">PyData</a>, and <a href="https://jupyter.org/">Jupyter</a> ecosystems.
             <!-- I believe in the power and politics of open source software, in activism, and in the importance of building and nurturing communities around software in a post-AI era. you can find me lurking around on myriads of repositories and discussions related to Python packaging and developer tooling, its scientific computing ecosystem, build systems, the Jupyter ecosystem, and more – and occasionally contributing to them as well. don't hesistate to reach out to me if you want to chat about any of these topics, or just want to say hi! -->
@@ -24,7 +24,7 @@
 		</tr>
 		<tr>
 			<td>my interests</td>
-			<td colspan="4">numerical computing; interactive computing; Python packaging and distribution; web accessibility; compilers and toolchains; computational reproducibility;research software engineering; software licensing; technology and AI policy; open source software as critical infrastructure</td>
+			<td colspan="4">numerical computing; interactive computing; Python packaging and distribution; web accessibility; compilers and toolchains; computational reproducibility; research software engineering; software licensing; technology and AI policy; open source software as critical infrastructure; digital public goods; sustaining next-gen maintainers and funding</td>
 		</tr>
         <tr>
             <td colspan="4">
@@ -46,52 +46,52 @@
                     </thead>
                     <tbody>
                       <tr>
-                        <td><a href="https://pyodide.org/">Pyodide</a></td>
-                        <td>a port of CPython for WebAssembly (WASM) that aims to bring the <a href="https://scientific-python.org/">scientific Python stack</a> to the browser and Node.js.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://pyodide.org/">Pyodide</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a port of CPython for WebAssembly (WASM) that aims to bring the <a href="https://scientific-python.org/">scientific Python stack</a> to the browser and Node.js.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://theme.scientific-python.org/">Scientific Python Hugo Theme</a></td>
-                        <td>a <a href="https://gohugo.io/">Hugo</a> theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://theme.scientific-python.org/">Scientific Python Hugo Theme</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a <a href="https://gohugo.io/">Hugo</a> theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://jupyterlite-sphinx.readthedocs.io/en/stable/">jupyterlite-sphinx</a></td>
-                        <td>a <a href="https://www.sphinx-doc.org/">Sphinx</a> <a href="https://www.sphinx-doc.org/en/master/usage/extensions/index.html">extension</a> that brings the power of <a href="https://jupyterlite.readthedocs.io/en/stable/">JupyterLite</a>, a WASM-based JupyterLab distribution, in Sphinx-based documentation websites.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://jupyterlite-sphinx.readthedocs.io/en/stable/">jupyterlite-sphinx</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a <a href="https://www.sphinx-doc.org/">Sphinx</a> <a href="https://www.sphinx-doc.org/en/master/usage/extensions/index.html">extension</a> that brings the power of <a href="https://jupyterlite.readthedocs.io/en/stable/">JupyterLite</a>, a WASM-based JupyterLab distribution, in Sphinx-based documentation websites.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/">jupyterlite-pyodide-kernel</a></td>
-                        <td>a JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/">jupyterlite-pyodide-kernel</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://jupyterlite.readthedocs.io/">jupyterlite</a></td>
-                        <td>a WASM-based JupyterLab distribution that brings a fully functional Jupyter environment to the browser and Node.js.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://jupyterlite.readthedocs.io/">jupyterlite</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a WASM-based JupyterLab distribution that brings a fully functional Jupyter environment to the browser and Node.js.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://github.com/HIPS/autograd/">Autograd</a></td>
-                        <td>a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/HIPS/autograd/">Autograd</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://pybamm.org/">PyBaMM</a></td>
-                        <td>the <a href="https://pybamm.org/">PyBaMM (Python Battery Mathematical Modelling) ecosystem</a>, consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://pybamm.org/">PyBaMM</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">the <a href="https://pybamm.org/">PyBaMM (Python Battery Mathematical Modelling) ecosystem</a>, consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://live.sympy.org/">SymPy Live Shell</a></td>
-                        <td>the <a href="https://live.sympy.org/">SymPy Live Shell</a> project, a web-based interface for the <a href="https://www.sympy.org/">SymPy</a> computer algebra system, which allows users to perform symbolic mathematics computations in the browser.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://live.sympy.org/">SymPy Live Shell</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">the <a href="https://live.sympy.org/">SymPy Live Shell</a> project, a web-based interface for the <a href="https://www.sympy.org/">SymPy</a> computer algebra system, which allows users to perform symbolic mathematics computations in the browser.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://github.com/pybop-team/PyBOP/">PyBOP</a></td>
-                        <td>a Python package for Bayesian optimizsation and design of experiments with a focus on battery technology. <a href="https://joss.theoj.org/papers/10.21105/joss.07874">read our paper!</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/pybop-team/PyBOP/">PyBOP</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a Python package for Bayesian optimizsation and design of experiments with a focus on battery technology. <a href="https://joss.theoj.org/papers/10.21105/joss.07874">read our paper!</a></td>
                       </tr>
                       <tr>
-                        <td><a href="https://github.com/pypa/cibuildwheel">PyPA/cibuildwheel</a></td>
-                        <td>a tool for building and testing Python wheels for multiple platforms and Python versions on CI/CD systems.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/pypa/cibuildwheel">PyPA/cibuildwheel</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a tool for building and testing Python wheels for multiple platforms and Python versions on CI/CD systems.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://conda.io/">conda</a></td>
-                        <td>an open source package and environment manager that provides language-agnostic dependency management and enables isolated, reproducible development environments across multiple platforms and operating systems.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://conda.io/">conda</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">an open source package and environment manager that provides language-agnostic dependency management and enables isolated, reproducible development environments across multiple platforms and operating systems.</td>
                       </tr>
                       <tr>
-                        <td><a href="https://github.com/PyWavelets/pywt/">PyWavelets</a></td>
-                        <td>a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.</td>
+                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/PyWavelets/pywt/">PyWavelets</a></td>
+                        <td style="word-wrap: break-word; white-space: normal;">a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.</td>
                       </tr>
                     </tbody>
                   </table>

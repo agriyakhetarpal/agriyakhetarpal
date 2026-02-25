@@ -16,7 +16,7 @@
 		</tr>
 		<tr>
 			<td colspan="1">
-                <img src="images/agriya.webp" alt="Agriya Khetarpal" height="200">
+                <img src="images/agriya.webp" alt="Agriya Khetarpal" height="300">
 			<td colspan="4">
             hi there! I am a computer programmer based in India. I work at <a href="https://quansight.com/">Quansight</a> (previously, <a href="https://labs.quansight.org">Quansight Labs</a>), where I focus on advancing scientific open source software in the <a href="https://scientific-python.org/">Scientific Python</a>, <a href="https://pydata.org/">PyData</a>, and <a href="https://jupyter.org/">Jupyter</a> ecosystems.
             <!-- I believe in the power and politics of open source software, in activism, and in the importance of building and nurturing communities around software in a post-AI era. you can find me lurking around on myriads of repositories and discussions related to Python packaging and developer tooling, its scientific computing ecosystem, build systems, the Jupyter ecosystem, and more – and occasionally contributing to them as well. don't hesistate to reach out to me if you want to chat about any of these topics, or just want to say hi! -->

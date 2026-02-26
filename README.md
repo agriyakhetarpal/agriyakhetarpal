@@ -28,78 +28,40 @@
 		</tr>
         <tr>
             <td colspan="4">
-                <h2>my projects</h2>
-                I maintain and contribute to myriads of open source software projects in my focii of interest. here is a non-exhaustive list of some projects that I have been involved in, in various capacities: as a volunteer or through my professional work.
-                <h3>short</h3>
-                <a href="https://pyodide.org/">Pyodide</a> • <a href="https://theme.scientific-python.org/">Scientific Python Hugo Theme</a> • <a href="https://jupyterlite-sphinx.readthedocs.io/en/stable/">jupyterlite-sphinx</a> • <a href="https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/">jupyterlite-pyodide-kernel</a> • <a href="https://jupyterlite.readthedocs.io/">jupyterlite</a> • <a href="https://github.com/HIPS/autograd/">Autograd</a> • <a href="https://pybamm.org/">PyBaMM</a> • <a href="https://live.sympy.org/">SymPy Live Shell</a> • <a href="https://github.com/pybop-team/PyBOP/">PyBOP</a> <a href="https://joss.theoj.org/papers/10.21105/joss.07874">(read our paper)</a> • <a href="https://github.com/pypa/cibuildwheel">PyPA/cibuildwheel</a> • <a href="https://conda.io/">conda</a> • <a href="https://github.com/PyWavelets/pywt/">PyWavelets</a>
-                <br>
-                <h3>long</h3>
-                <details>
-                  <summary style="cursor: pointer; user-select: none;">tap to read descriptions of these projects.</summary>
-                  <br>
-                  <table>
-                    <thead>
-                      <tr>
-                        <th>project</th>
-                        <th>description</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://pyodide.org/">Pyodide</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a port of CPython for WebAssembly (WASM) that aims to bring the <a href="https://scientific-python.org/">scientific Python stack</a> to the browser and Node.js.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://theme.scientific-python.org/">Scientific Python Hugo Theme</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a <a href="https://gohugo.io/">Hugo</a> theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://jupyterlite-sphinx.readthedocs.io/en/stable/">jupyterlite-sphinx</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a <a href="https://www.sphinx-doc.org/">Sphinx</a> <a href="https://www.sphinx-doc.org/en/master/usage/extensions/index.html">extension</a> that brings the power of <a href="https://jupyterlite.readthedocs.io/en/stable/">JupyterLite</a>, a WASM-based JupyterLab distribution, in Sphinx-based documentation websites.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/">jupyterlite-pyodide-kernel</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://jupyterlite.readthedocs.io/">jupyterlite</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a WASM-based JupyterLab distribution that brings a fully functional Jupyter environment to the browser and Node.js.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/HIPS/autograd/">Autograd</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://pybamm.org/">PyBaMM</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">the <a href="https://pybamm.org/">PyBaMM (Python Battery Mathematical Modelling) ecosystem</a>, consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://live.sympy.org/">SymPy Live Shell</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">the <a href="https://live.sympy.org/">SymPy Live Shell</a> project, a web-based interface for the <a href="https://www.sympy.org/">SymPy</a> computer algebra system, which allows users to perform symbolic mathematics computations in the browser.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/pybop-team/PyBOP/">PyBOP</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a Python package for Bayesian optimizsation and design of experiments with a focus on battery technology. <a href="https://joss.theoj.org/papers/10.21105/joss.07874">read our paper!</a></td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/pypa/cibuildwheel">PyPA/cibuildwheel</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a tool for building and testing Python wheels for multiple platforms and Python versions on CI/CD systems.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://conda.io/">conda</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">an open source package and environment manager that provides language-agnostic dependency management and enables isolated, reproducible development environments across multiple platforms and operating systems.</td>
-                      </tr>
-                      <tr>
-                        <td style="word-wrap: break-word; white-space: normal;"><a href="https://github.com/PyWavelets/pywt/">PyWavelets</a></td>
-                        <td style="word-wrap: break-word; white-space: normal;">a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.</td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </details>
             </td>
     </tbody>
 
 </table>
+
+## my projects
+
+I maintain and contribute to myriads of open source software projects in my focii of interest. here is a non-exhaustive list of some projects that I have been involved in, in various capacities: as a volunteer or through my professional work.
+
+### short
+
+[Pyodide](https://pyodide.org/) • [Scientific Python Hugo Theme](https://theme.scientific-python.org/) • [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/stable/) • [jupyterlite-pyodide-kernel](https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/) • [jupyterlite](https://jupyterlite.readthedocs.io/) • [Autograd](https://github.com/HIPS/autograd/) • [PyBaMM](https://pybamm.org/) • [SymPy Live Shell](https://live.sympy.org/) • [PyBOP](https://github.com/pybop-team/PyBOP/) ([read our paper!](https://joss.theoj.org/papers/10.21105/joss.07874)) • [PyPA/cibuildwheel](https://github.com/pypa/cibuildwheel) • [conda](https://conda.io/) • [PyWavelets](https://github.com/PyWavelets/pywt/)
+
+### long
+
+<details>
+<summary>tap to read more</summary>
+
+| project                                                                                    | description                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Pyodide](https://pyodide.org/)                                                            | a port of CPython for WebAssembly (WASM) that aims to bring the [scientific Python stack](https://scientific-python.org/) to the browser and Node.js.                                                                                                                                      |
+| [Scientific Python Hugo Theme](https://theme.scientific-python.org/)                       | a [Hugo](https://gohugo.io/) theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use.                                                                                                           |
+| [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/stable/)                 | a [Sphinx](https://www.sphinx-doc.org/) [extension](https://www.sphinx-doc.org/en/master/usage/extensions/index.html) that brings the power of [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/), a WASM-based JupyterLab distribution, in Sphinx-based documentation websites. |
+| [jupyterlite-pyodide-kernel](https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/) | a JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser.                                                                                                                                                                                            |
+| [jupyterlite](https://jupyterlite.readthedocs.io/)                                         | a WASM-based JupyterLab distribution that brings a fully functional Jupyter environment to the browser and Node.js.                                                                                                                                                                        |
+| [Autograd](https://github.com/HIPS/autograd/)                                              | a Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code.                                                                                                                                                                                   |
+| [PyBaMM](https://pybamm.org/)                                                              | the [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org/), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.                                                      |
+| [SymPy Live Shell](https://live.sympy.org/)                                                | the [SymPy Live Shell](https://live.sympy.org/) project, a web-based interface for the [SymPy](https://www.sympy.org/) computer algebra system, which allows users to perform symbolic mathematics computations in the browser.                                                            |
+| [PyBOP](https://github.com/pybop-team/PyBOP/)                                              | a Python package for Bayesian sation and design of experiments with a focus on battery technology. [read our paper!](https://joss.theoj.org/papers/10.21105/joss.07874)                                                                                                             |
+| [PyPA/cibuildwheel](https://github.com/pypa/cibuildwheel)                                  | a tool for building and testing Python wheels for multiple platforms and Python versions on CI/CD systems.                                                                                                                                                                                 |
+| [conda](https://conda.io/)                                                                 | an open source package and environment manager that provides language-agnostic dependency management and enables isolated, reproducible development environments across multiple platforms and operating systems.                                                                          |
+| [PyWavelets](https://github.com/PyWavelets/pywt/)                                          | a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.                                                                                                                |
+
+</details>
 
 For the ones who seek poetic malaise, here's a quote from _Ode: Intimations of Immortality_ by William Wordsworth:
 

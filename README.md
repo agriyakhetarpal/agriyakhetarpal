@@ -27,8 +27,6 @@
 			<td colspan="4">numerical computing; interactive computing; Python packaging and distribution; web accessibility; compilers and toolchains; computational reproducibility; research software engineering; software licensing; technology and AI policy; open source software as critical infrastructure; digital public goods; sustaining next-gen maintainers and funding</td>
 		</tr>
         <tr>
-            <td colspan="4">
-            </td>
     </tbody>
 
 </table>

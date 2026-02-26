@@ -12,7 +12,7 @@
 		<tr>
             <td>new delhi, india</td>
             <td>visit my website at <a href="https://agriyakhetarp.al">https://agriyakhetarp.al</a></td>
-            <td>contact me at <pre><a href="mailto:agriyakhetarpal [at] outlook [dot] com">agriyakhetarpal [at] outlook [dot] com</a></pre></td>
+            <td>contact me at <code><a href="mailto:agriyakhetarpal [at] outlook [dot] com">agriyakhetarpal [at] outlook [dot] com</a></code></td>
 		</tr>
 		<tr>
 			<td colspan="1">

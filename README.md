@@ -9,15 +9,17 @@ I currently work at [Quansight](https://labs.quansight.org), where I focus on th
 
 I currently volunteer and help maintain the following projects – a list which is by no means exhaustive:
 
-| Project | Description |
-| ------- | ----------- |
-| [Pyodide](https://pyodide.org/) | A port of CPython for WebAssembly (WASM) that aims to bring the [scientific Python stack](https://scientific-python.org/) to the browser and Node.js. |
-| [Scientific Python Hugo Theme](https://theme.scientific-python.org/) | A [Hugo](https://gohugo.io/) theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use. |
-| [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/stable/) | A [Sphinx](https://www.sphinx-doc.org/) [extension](https://www.sphinx-doc.org/en/master/usage/extensions/index.html) that brings the power of [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/), a WASM-based JupyterLab distribution, in Sphinx-based documentation websites. |
-| [jupyterlite-pyodide-kernel](https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/) | A JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser. |
-| [Autograd](https://github.com/HIPS/autograd/) | A Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code. |
-| [PyBaMM](https://pybamm.org/) | The [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org/), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments. |
-| [SymPy Live Shell](https://live.sympy.org/) | The [SymPy Live Shell](https://live.sympy.org/) project, a web-based interface for the [SymPy](https://www.sympy.org/) computer algebra system, which allows users to perform symbolic mathematics computations in the browser. |
+| Project                                                                                    | Description                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Pyodide](https://pyodide.org/)                                                            | A port of CPython for WebAssembly (WASM) that aims to bring the [scientific Python stack](https://scientific-python.org/) to the browser and Node.js.                                                                                                                                      |
+| [Scientific Python Hugo Theme](https://theme.scientific-python.org/)                       | A [Hugo](https://gohugo.io/) theme for building landing page and blog websites for the Scientific Python ecosystem, with a focus on accessibility, performance, and ease of use.                                                                                                           |
+| [cibuildwheel](https://cibuildwheel.readthedocs.io/en/stable/)                             | A Python package and PyPA project that provides a simple and consistent way to build Python wheels for multiple platforms and Python versions using continuous integration (CI) services.                                                                                                  |
+| [jupyterlite-sphinx](https://jupyterlite-sphinx.readthedocs.io/en/stable/)                 | A [Sphinx](https://www.sphinx-doc.org/) [extension](https://www.sphinx-doc.org/en/master/usage/extensions/index.html) that brings the power of [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/), a WASM-based JupyterLab distribution, in Sphinx-based documentation websites. |
+| [jupyterlite-pyodide-kernel](https://jupyterlite-pyodide-kernel.readthedocs.io/en/stable/) | A JupyterLite kernel that uses Pyodide as its backend for executing Python code in the browser.                                                                                                                                                                                            |
+| [Autograd](https://github.com/HIPS/autograd/)                                              | A Python framework for forward-mode and reverse-mode automatic differentiation of Python and NumPy code.                                                                                                                                                                                   |
+| [PyBaMM](https://pybamm.org/)                                                              | The [PyBaMM (Python Battery Mathematical Modelling) ecosystem](https://pybamm.org/), consisting of a Python package and library for the mathematical modelling of batteries and for conducting efficient simulations and experiments.                                                      |
+| [PyBOP](https://github.com/pybop-team/PyBOP/)                                              | A Python package for Bayesian optimisation and design of experiments with a focus on battery technology. [Read our paper!](https://joss.theoj.org/papers/10.21105/joss.07874)                                                                                                              |
+| [SymPy Live Shell](https://live.sympy.org/)                                                | The [SymPy Live Shell](https://live.sympy.org/) project, a web-based interface for the [SymPy](https://www.sympy.org/) computer algebra system, which allows users to perform symbolic mathematics computations in the browser.                                                            |
 
 Additionally, I occasionally help triage [PyWavelets](https://github.com/PyWavelets/pywt/), a piece of software written in Python that provides tools for wavelet transforms and related mathematical operations, commonly used in signal processing and data analysis.
 
@@ -32,7 +34,7 @@ You can usually find me lurking around on myriads of repositories and discussion
 
 <hr>
 
-To say hello, please feel free to reach out to me on [Bluesky](https://bsky.app/profile/agriyakhetarp.al) or [Mastodon](https://fosstodon.org/@agriyakhetarpal). For any professional inquiries, please use the following email address: ` agriyakhetarpal [at] outlook [dot] com `
+To say hello, please feel free to reach out to me on [Bluesky](https://bsky.app/profile/agriyakhetarp.al) or [Mastodon](https://fosstodon.org/@agriyakhetarpal). For any professional inquiries, please use the following email address: `agriyakhetarpal [at] outlook [dot] com`
 
 <hr>
 

@@ -77,6 +77,12 @@ a Python library providing tools for wavelet transforms and related mathematical
 </tbody>
 </table>
 
+you may find an assorted list of projects that I either authored or contributed significantly, to as part of personal and professional endeavours, in the grid below.
+
+thank you for stopping by, and I hope you found something intriguing to explore here! 🤠
+
+---
+
 for the ones who seek poetic malaise, here's a quote from _Ode: Intimations of Immortality_ by William Wordsworth:
 
 **“Whither is fled the visionary gleam? Where is it now, the glory and the dream?”**

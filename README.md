@@ -1,6 +1,6 @@
 # agriya khetarpal
 
-_full-time pythonista, part-time poet, and hopeful code poet_ 🐍
+_full-time pythonista, part-time poet, and hopeful code poet_ 🐍🦀
 
 ![](https://komarev.com/ghpvc/?username=agriyakhetarpal&color=5465F5&abbreviated=true) ![](https://hit.yhype.me/github/profile?user_id=74401230)
 

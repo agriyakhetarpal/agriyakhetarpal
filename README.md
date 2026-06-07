@@ -4,7 +4,7 @@ _full-time pythonista, part-time poet, and hopeful code poet_ 🐍🦀
 
 ![](https://komarev.com/ghpvc/?username=agriyakhetarpal&color=5465F5&abbreviated=true) ![](https://hit.yhype.me/github/profile?user_id=74401230)
 
-new delhi, india • visit my website at [https://agriyakhetarp.al](https://agriyakhetarp.al) • [contact me](mailto:agriyakhetarpal@outlook.com)
+new delhi, india • visit my website at [https://agriyakhetarp.al](https://agriyakhetarp.al) • [contact me](mailto:agriyakhetarpal@outlook.com) • [sponsor my work](https://github.com/sponsors/agriyakhetarpal)
 
 <table border="0">
 <tbody>
@@ -77,7 +77,7 @@ a Python library providing tools for wavelet transforms and related mathematical
 </tbody>
 </table>
 
-you may find an assorted list of projects that I either authored or contributed significantly, to as part of personal and professional endeavours, in the grid below.
+you may find an assorted list of projects that I either authored or contributed to significantly, to as part of personal and professional endeavours, in the grid below.
 
 thank you for stopping by, and I hope you found something intriguing to explore here! 🤠
 

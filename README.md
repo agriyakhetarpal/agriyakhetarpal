@@ -20,7 +20,7 @@ new delhi, india • visit my website at [https://agriyakhetarp.al](https://agri
 
 ## my projects
 
-I maintain and contribute to myriads of open source software projects in my focii of interest. here is a non-exhaustive list of some projects that I have been involved in, in various capacities: as a volunteer or through my professional work; as a maintainer, core developer, or triager, and so on.
+I maintain and contribute to myriads of open source software projects in my foci of interest. here is a non-exhaustive list of some projects that I have been involved in, in various capacities: as a volunteer or through my professional work; as a maintainer, core developer, or triager, and so on.
 
 <table width="100%" cellpadding="12" border="1">
 <tbody>

@@ -18,6 +18,45 @@ new delhi, india • visit my website at [https://agriyakhetarp.al](https://agri
 </tbody>
 </table>
 
+<p align="center"><img src="badges/cat-and-mouse.gif" width="560" height="27" alt="a cat chasing a mouse"/></p>
+
+## pinboard
+
+<p>
+<img src="badges/88x31/anti-javascript-javascript-club.png" width="88" height="31" alt="anti-javascript javascript club"/>
+<img src="badges/88x31/dont-feed-the-ai.gif" width="88" height="31" alt="don't feed the AI"/>
+<img src="badges/88x31/eat-the-rich.gif" width="88" height="31" alt="eat the rich"/>
+<img src="badges/88x31/forever-online.gif" width="88" height="31" alt="forever online"/>
+<img src="badges/88x31/free-speech-forever.gif" width="88" height="31" alt="free speech forever"/>
+<img src="badges/88x31/graphic-design-passion.png" width="88" height="31" alt="graphic design is my passion"/>
+<img src="badges/88x31/gutenberg.gif" width="88" height="31" alt="Project Gutenberg"/>
+<img src="badges/88x31/human-made.gif" width="88" height="31" alt="human made"/>
+<img src="badges/88x31/internet-archive.gif" width="88" height="31" alt="Internet Archive"/>
+<img src="badges/88x31/iso8601.jpg" width="88" height="31" alt="ISO 8601"/>
+<img src="badges/88x31/kirby.gif" width="88" height="31" alt="Kirby"/>
+<img src="badges/88x31/palestine.png" width="88" height="31" alt="from the river to the sea, palestine will be free"/>
+<img src="badges/88x31/loading-fucks.gif" width="88" height="31" alt="loading fucks"/>
+<img src="badges/88x31/powered-by-macintosh.gif" width="88" height="31" alt="powered by Macintosh"/>
+<img src="badges/88x31/made-with-love.gif" width="88" height="31" alt="made with love"/>
+<img src="badges/88x31/metallica.gif" width="88" height="31" alt="Metallica"/>
+<img src="badges/88x31/mouse-in-a-wheel.gif" width="88" height="31" alt="mouse in a wheel"/>
+<img src="badges/88x31/mp3-warrior.png" width="88" height="31" alt="MP3 warrior"/>
+<img src="badges/88x31/no-webp.gif" width="88" height="31" alt="no WebP"/>
+<img src="badges/88x31/ozzy.jpg" width="88" height="31" alt="Ozzy"/>
+<img src="badges/88x31/package-for-the-web.gif" width="88" height="31" alt="package for the web"/>
+<img src="badges/88x31/right-to-repair.png" width="88" height="31" alt="right to repair"/>
+<img src="badges/88x31/ruffle.png" width="88" height="31" alt="Ruffle"/>
+<img src="badges/88x31/seed.png" width="88" height="31" alt="seed"/>
+<img src="badges/88x31/svg-always-sharp.png" width="88" height="31" alt="SVG always sharp"/>
+<img src="badges/88x31/there-is-no-planet-b.png" width="88" height="31" alt="there is no planet B"/>
+<img src="badges/88x31/this-machine-kills-fascists.png" width="88" height="31" alt="this machine kills fascists"/>
+<img src="badges/88x31/web-design-passion.gif" width="88" height="31" alt="web design is my passion"/>
+<img src="badges/88x31/web-interoperability-pledge.gif" width="88" height="31" alt="web interoperability pledge"/>
+<img src="badges/88x31/what-is-copyright.gif" width="88" height="31" alt="what is copyright?"/>
+<img src="badges/88x31/mastodon.png" width="88" height="31" alt="mastodon"/>
+<img src="badges/88x31/written-by-human-not-by-ai.svg" width="88" height="31" alt="written by human, not by AI"/>
+</p>
+
 ## my projects
 
 I maintain and contribute to myriads of open source software projects in my foci of interest. here is a non-exhaustive list of some projects that I have been involved in, in various capacities: as a volunteer or through my professional work; as a maintainer, core developer, or triager, and so on.
